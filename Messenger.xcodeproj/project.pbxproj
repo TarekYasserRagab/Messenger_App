@@ -56,6 +56,10 @@
 		F570930828D21AFC00140215 /* Messenger */ = {
 			isa = PBXGroup;
 			children = (
+				F570932028D21CC600140215 /* ViewModels */,
+				F570931F28D21CBD00140215 /* Models */,
+				F570931E28D21CAE00140215 /* Views */,
+				F570931D28D21C9300140215 /* Controllers */,
 				F570930928D21AFC00140215 /* AppDelegate.swift */,
 				F570930B28D21AFC00140215 /* SceneDelegate.swift */,
 				F570930D28D21AFC00140215 /* ViewController.swift */,
@@ -65,6 +69,34 @@
 				F570931728D21AFD00140215 /* Info.plist */,
 			);
 			path = Messenger;
+			sourceTree = "<group>";
+		};
+		F570931D28D21C9300140215 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		F570931E28D21CAE00140215 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F570931F28D21CBD00140215 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F570932028D21CC600140215 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
